@@ -44,13 +44,13 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Body>
-          <StarCanvas />
-          <AnimatePresence>
+          {/* <StarCanvas /> */}
+          {/* <AnimatePresence> */}
             <div>
               <Hero />
               <Wrapper>
                 <Skills />
-                <Experience />
+                {/* <Experience /> */}
               </Wrapper>
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
               <Wrapper>
@@ -66,7 +66,7 @@ function App() {
                 />
               )}
             </div>
-          </AnimatePresence>
+          {/* </AnimatePresence>   */}
         </Body>
       </BrowserRouter>
     </ThemeProvider>

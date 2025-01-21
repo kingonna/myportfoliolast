@@ -1,3 +1,6 @@
+import Clouds_baseColor from "../images/Clouds_baseColor.png";
+import Flexwhere from "../images/Flexwhere.jpg";
+
 export const Bio = {
   name: "Rishav Chanda",
   roles: [
@@ -412,75 +415,63 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "Mercedes",
+    date: "Jan 2021 - Dec 2021",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "The main areas of activity of the company are the sale of new cars of passenger, commercial and truck segments, used cars, development of after-sales service and dealer network. As of October 2021, the dealer network of PJSC AVTOKAPITAL has 21 representative offices for the sale and service of cars in the largest cities of Ukraine. My role ensure components are modular, maintainable, and follow best practices.",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy/auto-client/0d84cb87de73ac7c229c8cc58b200c89/3_2_02.jpg",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "Vue Js",
+      "JQuery",
+      "Open Graph",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    // github: "https://github.com/rishavchanda/DecisionHub",
+    webapp: "https://www.mercedes-benz.ua/",
   },
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Next Dashboard",
+    date: "Jun 2020 - Jul 2021",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "This is a Next.js project bootstrapped with create-next-app --typescript.A Next.JS boilerplate with the famous Open Source Boostrap Admin Template, CoreUI.This dashboard is built with Typescript and React Bootstrap, using the App Router.",
+    image:Clouds_baseColor,
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "CoreUI",
+      "Next Js",
+      "Bootstrap",
+      "CSS"
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    category: "Next dashboard",
+    github: "https://github.com/kingonna/nextjs-dashboard",
+    webapp: "https://nextjs-dashboard-olive.vercel.app/",
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Flexwhere",
+    date: "Feb 2023 - Dec 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "Flexwhere is an easy hot desking tool that supports hybrid working. As a product of IT innovative solutions company, Dutchview, we are incredibly proud of our Dutch heritage and international customer base, ranging across India, Netherlands, Germany and the UK. Another app by Dutchview, called Ed Controls is a quality management software for sectors such as construction and facility management.",
+    image:Flexwhere,
+    tags: ["React Js", "Nginx", "TailWind CSS", "core-js", "Webpack","Algoria"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    // github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://flexwhere.com/",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
   },
   {
     id: 1,
