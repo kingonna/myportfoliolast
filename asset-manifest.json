@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kingonna/myportfoliolast/static/css/main.58a0c615.css",
-    "main.js": "/kingonna/myportfoliolast/static/js/main.4e329e2f.js",
-    "static/media/Flexwhere.jpg": "/kingonna/myportfoliolast/static/media/Flexwhere.1dbf2baa5b46cd2ffcae.jpg",
-    "static/media/Herolmage.jpg": "/kingonna/myportfoliolast/static/media/Herolmage.338e2716f7622f237873.jpg",
-    "static/media/Clouds_baseColor.png": "/kingonna/myportfoliolast/static/media/Clouds_baseColor.9d6c20d49b1b5770eee8.png",
-    "index.html": "/kingonna/myportfoliolast/index.html",
-    "main.58a0c615.css.map": "/kingonna/myportfoliolast/static/css/main.58a0c615.css.map",
-    "main.4e329e2f.js.map": "/kingonna/myportfoliolast/static/js/main.4e329e2f.js.map"
+    "main.css": "/myportfoliolast/static/css/main.58a0c615.css",
+    "main.js": "/myportfoliolast/static/js/main.4c67af61.js",
+    "static/media/Flexwhere.jpg": "/myportfoliolast/static/media/Flexwhere.1dbf2baa5b46cd2ffcae.jpg",
+    "static/media/Herolmage.jpg": "/myportfoliolast/static/media/Herolmage.338e2716f7622f237873.jpg",
+    "static/media/Clouds_baseColor.png": "/myportfoliolast/static/media/Clouds_baseColor.9d6c20d49b1b5770eee8.png",
+    "index.html": "/myportfoliolast/index.html",
+    "main.58a0c615.css.map": "/myportfoliolast/static/css/main.58a0c615.css.map",
+    "main.4c67af61.js.map": "/myportfoliolast/static/js/main.4c67af61.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.4e329e2f.js"
+    "static/js/main.4c67af61.js"
   ]
 }
